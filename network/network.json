@@ -1,0 +1,43 @@
+[
+    {
+        "name": "Tron",
+        "tokens": ["TRC20","TRC10"],
+        "coin": "TRX",
+        "description": "",
+        "explorer": "https://tronscan.org/#/transaction/",
+        "icons":[
+            "https://raw.githubusercontent.com/Bitfora/bitwallet/main/network/icon/tron/tron.png",
+            "https://raw.githubusercontent.com/Bitfora/bitwallet/main/network/icon/tron/tron.svg"
+            ]
+    },{
+        "name": "Ethereum",
+        "tokens": "",
+        "coin": "ETH",
+        "description": "",
+        "explorer": "https://etherscan.io/tx/",
+        "icons":[
+            "https://raw.githubusercontent.com/Bitfora/bitwallet/main/network/icon/ethereum/ethereum.png",
+            "https://raw.githubusercontent.com/Bitfora/bitwallet/main/network/icon/ethereum/ethereum.svg"
+            ]
+    },{
+        "name": "BNB Smart Chain",
+        "tokens": "",
+        "coin": "BNB",
+        "description": "",
+        "explorer": "https://bscscan.com/tx/0x8f40136055938ee9be6835fb82795a442b9deff098c39f838079192bac5c3c2",
+        "icons":[
+            "https://raw.githubusercontent.com/Bitfora/bitwallet/main/network/icon/bnb/bnb.png",
+            "https://raw.githubusercontent.com/Bitfora/bitwallet/main/network/icon/bnb/bnb.svg"
+            ]
+    },{
+        "name": "Solana",
+        "tokens": ["SPL"],
+        "coin": "SOL",
+        "description": "",
+        "explorer": "https://explorer.solana.com/tx/",
+        "icons":[
+            "https://raw.githubusercontent.com/Bitfora/bitwallet/main/network/icon/solana/solana.png",
+            "https://raw.githubusercontent.com/Bitfora/bitwallet/main/network/icon/solana/solana.svg"
+            ]
+    }
+]

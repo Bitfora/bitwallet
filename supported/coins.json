@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Tron",
+        "symbol": "TRX",
+        "network": "Tron",
+        "contract": "",
+        "decimals": 6,
+        "description": "",
+        "standard": "TRX",
+        "logo": ""
+    },{
+        "name": "Tether",
+        "symbol": "USDT",
+        "network": "Tron",
+        "contract": "TR7NHqjeKQxGTCi8q8ZY4pL8otSzgjLj6t",
+        "decimals": 6,
+        "description": "",
+        "standard": "TRC20",
+        "logo": ""
+    },{
+        "name": "USD Coin",
+        "symbol": "USDC",
+        "network": "Tron",
+        "contract": "TEkxiTehnzSmSe2XqrBj4w32RUN966rdz8",
+        "decimals": 6,
+        "description": "",
+        "standard": "TRC20",
+        "logo": ""
+    },{
+        "name": "BUSD Token",
+        "symbol": "BUSD",
+        "network": "Tron",
+        "contract": "TMz2SWatiAtZVVcH2ebpsbVtYwUPT9EdjH",
+        "decimals": 18,
+        "description": "",
+        "standard": "TRC20",
+        "logo": ""
+    },{
+        "name": "Bitfora",
+        "symbol": "BFC",
+        "network": "Tron",
+        "contract": "TJgWXTSky7tKekS5KAaLay3W3d4fQxopMa",
+        "decimals": 7,
+        "description": "",
+        "standard": "TRC20",
+        "logo": ""
+    }
+]
