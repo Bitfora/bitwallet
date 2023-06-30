@@ -7,7 +7,7 @@
         "decimals": 6,
         "description": "",
         "standard": "TRX",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/Bitfora/bitwallet/main/supported/logos/tron/tron.png"
     },{
         "name": "Tether",
         "symbol": "USDT",
@@ -16,7 +16,7 @@
         "decimals": 6,
         "description": "",
         "standard": "TRC20",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/Bitfora/bitwallet/main/supported/logos/tron/usdt.png"
     },{
         "name": "USD Coin",
         "symbol": "USDC",
@@ -25,7 +25,7 @@
         "decimals": 6,
         "description": "",
         "standard": "TRC20",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/Bitfora/bitwallet/main/supported/logos/tron/usdc.png"
     },{
         "name": "BUSD Token",
         "symbol": "BUSD",
@@ -34,15 +34,15 @@
         "decimals": 18,
         "description": "",
         "standard": "TRC20",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/Bitfora/bitwallet/main/supported/logos/tron/busd.png"
     },{
         "name": "Bitfora",
         "symbol": "BFC",
         "network": "Tron",
         "contract": "TJgWXTSky7tKekS5KAaLay3W3d4fQxopMa",
-        "decimals": 7,
+        "decimals": 6,
         "description": "",
         "standard": "TRC20",
-        "logo": ""
+        "logo": "https://raw.githubusercontent.com/Bitfora/bitwallet/main/supported/logos/tron/bitfora.png"
     }
 ]
